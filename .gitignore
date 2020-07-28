@@ -28,6 +28,4 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
-.trust/
 .trust.json
-.trust 
