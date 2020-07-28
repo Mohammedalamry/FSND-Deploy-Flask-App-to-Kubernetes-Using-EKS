@@ -29,3 +29,5 @@ htmlcov/
 .envrc
 .direnv
 .trust/
+.trust.json
+.trust 
